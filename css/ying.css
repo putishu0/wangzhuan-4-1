@@ -136,8 +136,9 @@ to {background:yellow;color:#D81179;
 }
 /*评论部分*/
 #main{
-	height:25.3rem;
+	height:32.3rem;
 	margin-top:0.5rem;
+	margin-bottom:1rem;
 }
 #main .information{
     width:100%;
